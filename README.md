@@ -1,4 +1,3 @@
-An HTML version of my CV
+    🌟 An HTML version of my CV 💖
 
-
-DEMO LINK { https://theodorah-lab.github.io/My-Personal.CV/ }
+<a href="https://theodorah-lab.github.io/My-Personal.CV/" target="_blank">DEMO LINK</a>
